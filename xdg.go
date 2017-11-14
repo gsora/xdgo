@@ -1,4 +1,4 @@
-package xdg
+package xdgo
 
 import (
 	"os/exec"
